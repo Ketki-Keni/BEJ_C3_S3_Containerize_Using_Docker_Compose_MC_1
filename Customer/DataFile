@@ -1,0 +1,19 @@
+//Uri : http://localhost:8082/api/v1/register : Method : Post
+{
+    "customerId": 1001,
+    "customerName": "James",
+    "customerPassword": "12345",
+    "customerPhoneNo": "8452037892"
+}
+{
+    "customerId": 1002,
+    "customerName": "Tom",
+    "customerPassword": "12345",
+    "customerPhoneNo": "7452037892"
+}
+
+//Uri : http://localhost:8082/api/v1/login
+{
+    "customerId": 1001,
+    "customerPassword": "12345"
+}
